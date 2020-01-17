@@ -7,3 +7,7 @@
 .group {
     margin-top: 2em;
 }
+
+td.col {
+    padding-right: 15px;
+}
